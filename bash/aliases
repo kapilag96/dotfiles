@@ -1,3 +1,4 @@
+#! /bin/bash
 
 # Extra flags
 alias grep='grep --color'
